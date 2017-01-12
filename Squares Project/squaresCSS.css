@@ -1,0 +1,33 @@
+.square1 {
+	background-color: red;
+	height: 256px;
+	width: 256px;
+	opacity: 0.5;
+}
+.square1:hover {
+	background-color: rgb(255, 140, 0);
+}
+.square2:hover {
+	background-color: purple;
+}
+.square3:hover {
+	background-color: green;
+}
+.square2 {
+	background-color: blue;
+	height: 256px;
+	width: 256px;
+	opacity: 0.5;
+	position: relative;
+	right: -192px;
+	top: -64px;
+}
+.square3 {
+	background-color: yellow;
+	height: 256px;
+	width: 256px;
+	opacity: 0.5;
+	position: relative;
+	right: -384px;
+	top: -128px;
+}
