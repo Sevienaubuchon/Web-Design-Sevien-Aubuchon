@@ -31,54 +31,17 @@
 	right: -384px;
 	top: -128px;
 }
-
-
-
-
-
-
-
-
-
-body {
-	font-family: georgia;
-	border-style: solid;
-	border-width: 5px;
-	border-color: rgb(0,0,0);}
-h1 {
-	color: rgb(0,0,0);
-	border-style: solid;
-	border-width: 5px;
-	border-color: rgb(0,0,0);}
-img {
-	border-style: solid;
-	border-width: 5px;
-	border-color: rgb(0,0,0);
-	padding-top: 15px;
-	padding-bottom: 15px;
-	padding-right: 15px;
-	padding-left: 15px;}
-div.About-Us {
-	border-style: solid;
-	border-width: 5px;
-	border-color: rgb(0,0,0);
-	padding-top: 15px;
-	padding-bottom: 15px;
-	padding-right: 15px;
-	padding-left: 15px;}
-div.Menu {
-	border-style: solid;
-	border-width: 5px;
-	border-color: rgb(0,0,0);
-	padding-top: 15px;
-	padding-bottom: 15px;
-	padding-right: 15px;
-	padding-left: 15px;}
-div.Reservations {
-	border-style: solid;
-	border-width: 5px;
-	border-color: rgb(0,0,0);
-	padding-top: 15px;
-	padding-bottom: 15px;
-	padding-right: 15px;
-	padding-left: 15px;}h;
+@media (min-width: 100px) and (max-width: 650px) {
+	.square1 {
+		width: 200px;
+		height: 200px;
+	}
+	.square2 {
+		width: 200px;
+		height: 200px;
+	}
+	.square3 {
+		width: 200px;
+		height: 200px;
+	}
+}

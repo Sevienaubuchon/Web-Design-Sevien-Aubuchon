@@ -134,7 +134,7 @@ body{
 .Appetizers {
 	background-color: rgb(255, 165, 0);
 	height: 140px;
-	width: 685px;
+	width: 220px;
 	position: relative;
 	top: -685px;
 	right: -320px;
@@ -142,18 +142,42 @@ body{
 .Entrees {
 	background-color: rgb(255, 165, 0);
 	height: 140px;
-	width: 685px;
+	width: 220px;
 	position: relative;
-	top: -630px;
-	right: -320px;
+	top: -846px;
+	right: -560px;
 }
 .Desserts {
 	background-color: rgb(255, 165, 0);
 	height: 140px;
-	width: 685px;
+	width: 220px;
 	position: relative;
-	top: -572px;
+	top: -1008px;
+	right: -800px;
+}
+.Salads {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 220px;
+	position: relative;
+	top: -1007px;
 	right: -320px;
+}
+.Pizzas {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 220px;
+	position: relative;
+	top: -1169px;
+	right: -560px;
+}
+.Pastas {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 220px;
+	position: relative;
+	top: -1330px;
+	right: -800px;
 }
 									RESERVATIONS PAGE STUFF
 
@@ -188,4 +212,374 @@ body{
 	position: relative;
 	top: -572px;
 	right: -320px;
+}
+										
+
+@media (min-width: 1px) and (max-width: 400px) {
+.Sevien-Restaurant {
+	background-color: rgb(255, 165, 0);
+	height: 40px;
+	width: 272px;
+	position: relative;
+	right: -55px;
+}
+.Restaurant-Image {
+	background-color: rgb(225, 165, 0);
+	height: 112px;
+	width: 200px;
+	position: relative;
+	top: -125px;
+	right: -66px;
+}
+.Image-Background {
+	background-color: rgb(255, 165, 0);
+	height: 160px;
+	width: 272px;
+	position: relative;
+	top: 24px;
+	right: -55px;
+}
+.About-Us {
+	height: 132px;
+	width: 185px;
+	position: relative;
+	top: -111px;
+	right: -70px;
+}
+.About-Us-Background {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 200px;
+	position: relative;
+	top: 18px;
+	right: -55px;
+}
+.Menu {
+	height: 132px;
+	width: 185px;
+	position: relative;
+	top: -238px;
+	right: -70px;
+}
+.Menu-Background {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 200px;
+	position: relative;
+	top: -107px;
+	right: -55px;
+}
+.Reservations {
+	height: 132px;
+	width: 185px;
+	position: relative;
+	top: -362px;
+	right: -70px;
+}
+.Reservations-Background {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 200px;
+	position: relative;
+	top: -231px;
+	right: -55px;
+}
+.Background {
+	background-color: rgb(0, 0, 0);
+	width: 380px;
+	height: 1900px;
+	position: relative;
+	right: -2px;
+}
+.About-Us-Text {
+	background-color: rgb(255, 165, 0);
+	height: 110px;
+	width: 222px;
+	position: relative;
+	top: -795px;
+	right: -80px;
+}
+.About-Us-Text-Background {
+	background-color: rgb(255, 165, 0);
+	height: 160px;
+	width: 272px;
+	position: relative;
+	top: -660px;
+	right: -55px;
+}
+.About-Us-Page-Background {
+	background-color: rgb(0, 0, 0);
+	height: 685px;
+	width: 380px;
+	position: relative;
+	top: -50px;
+	right: -2px;
+	z-index: -1;
+}
+.Menu-Page-Background {
+	background-color: rgb(0, 0, 0);
+	height: 1185px;
+	width: 380px;
+	position: relative;
+	top: -50px;
+	right: -2px;
+	z-index: -1;
+}
+.Appetizers {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 272px;
+	position: relative;
+	top: -1185px;
+	right: -55px;
+}
+.Entrees {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 272px;
+	position: relative;
+	top: -1184px;
+	right: -55px;
+}
+.Desserts {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 272px;
+	position: relative;
+	top: -1184px;
+	right: -55px;
+}
+.Salads {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 272px;
+	position: relative;
+	top: -1183px;
+	right: -55px;
+}
+.Pizzas {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 272px;
+	position: relative;
+	top: -1183px;
+	right: -55px;
+}
+.Pastas {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 272px;
+	position: relative;
+	top: -1182px;
+	right: -55px;
+}
+.Phone {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 272px;
+	position: relative;
+	top: -1185px;
+	right: -55px;
+}
+.Address {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 272px;
+	position: relative;
+	top: -1184px;
+	right: -55px;
+}
+.Hours {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 272px;
+	position: relative;
+	top: -1184px;
+	right: -55px;
+}
+}
+
+@media (min-width: 401px) and (max-width: 1000px) {
+.Sevien-Restaurant {
+	background-color: rgb(255, 165, 0);
+	height: 40px;
+	width: 272px;
+	position: relative;
+	right: -322px;
+}
+.Restaurant-Image {
+	height: 350px;
+	width: 625px;
+	position: relative;
+	top: -350px;
+	right: -152px;
+}
+.Image-Background {
+	background-color: rgb(255, 165, 0);
+	height: 400px;
+	width: 685px;
+	position: relative;
+	top: 24px;
+	right: -122px;
+}
+.About-Us {
+	height: 132px;
+	width: 185px;
+	position: relative;
+	top: -442px;
+	right: -137px;
+}
+.About-Us-Background {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 200px;
+	position: relative;
+	top: -311px;
+	right: -122px;
+}
+.Menu {
+	height: 132px;
+	width: 185px;
+	position: relative;
+	top: -732px;
+	right: -380px;
+}
+.Menu-Background {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 200px;
+	position: relative;
+	top: -601px;
+	right: -365px;
+}
+.Reservations {
+	height: 132px;
+	width: 185px;
+	position: relative;
+	top: -1022px;
+	right: -622px;
+}
+.Reservations-Background {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 200px;
+	position: relative;
+	top: -891px;
+	right: -607px;
+}
+.Background {
+	background-color: rgb(0, 0, 0);
+	height: 685px;
+	width: 940px;
+	position: relative;
+	top: -1670px;
+	right: -2px;
+	z-index: -1;
+}
+.About-Us-Text {
+	background-color: rgb(255, 165, 0);
+	height: 350px;
+	width: 625px;
+	position: relative;
+	top: -1040px;
+	right: -152px;
+}
+.About-Us-Text-Background {
+	background-color: rgb(255, 165, 0);
+	height: 400px;
+	width: 685px;
+	position: relative;
+	top: -660px;
+	right: -122px;
+}
+.About-Us-Page-Background {
+	background-color: rgb(0, 0, 0);
+	height: 685px;
+	width: 940px;
+	position: relative;
+	top: -50px;
+	right: -2px;
+	z-index: -1;
+}
+.Menu-Page-Background {
+	background-color: rgb(0, 0, 0);
+	height: 685px;
+	width: 940px;
+	position: relative;
+	top: -50px;
+	right: -2px;
+	z-index: -1;
+}
+.Appetizers {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 220px;
+	position: relative;
+	top: -685px;
+	right: -222px;
+}
+.Entrees {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 220px;
+	position: relative;
+	top: -846px;
+	right: -462px;
+}
+.Desserts {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 220px;
+	position: relative;
+	top: -846px;
+	right: -222px;
+}
+.Salads {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 220px;
+	position: relative;
+	top: -1007px;
+	right: -462px;
+}
+.Pizzas {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 220px;
+	position: relative;
+	top: -1007px;
+	right: -222px;
+}
+.Pastas {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 220px;
+	position: relative;
+	top: -1168px;
+	right: -462px;
+}
+.Phone {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 685px;
+	position: relative;
+	top: -685px;
+	right: -122px;
+}
+.Address {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 685px;
+	position: relative;
+	top: -630px;
+	right: -122px;
+}
+.Hours {
+	background-color: rgb(255, 165, 0);
+	height: 140px;
+	width: 685px;
+	position: relative;
+	top: -572px;
+	right: -122px;
+}
 }
