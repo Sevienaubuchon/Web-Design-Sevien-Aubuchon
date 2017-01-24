@@ -15,6 +15,11 @@ body{
 	top: -350px;
 	right: -350px;
 }
+img {
+	max-width: 625px;
+	width: 125%;
+	height: auto;
+}
 .Image-Background {
 	background-color: rgb(255, 165, 0);
 	height: 400px;

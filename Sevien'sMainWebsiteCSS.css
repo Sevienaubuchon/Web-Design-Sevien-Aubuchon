@@ -1,0 +1,57 @@
+body{
+	background-color: rgb(255, 255, 255);
+}
+.About-Me-Project {
+	background-color: rgb(0, 165, 255);
+	height: 256px;
+	width: 256px;
+	position: relative;
+}
+.About-Me-Project:hover {
+	background-color: rgb(0, 100, 255);
+}
+.Squares-Project {
+	background-color: rgb(0, 165, 255);
+	height: 256px;
+	width: 256px;
+	position: relative;
+	top: -256px;
+	right: -306px;
+}
+.Squares-Project:hover {
+	background-color: rgb(0, 100, 255);
+}
+.Restaurant-Project {
+	background-color: rgb(0, 165, 255);
+	height: 256px;
+	width: 256px;
+	position: relative;
+	top: -512px;
+	right: -612px;
+}
+.Restaurant-Project:hover {
+	background-color: rgb(0, 100, 255);
+}
+@media (min-width: 300px) and (max-width: 900px) {
+	.About-Me-Project {
+		width: 200px;
+		height: 200px;
+		background-color: rgb(0, 165, 255);
+	}
+		.Squares-Project {
+		width: 200px;
+		height: 200px;
+		background-color: rgb(0, 165, 255);
+		position: relative;
+		top: -200px;
+		right: -256px;
+	}
+		.Restaurant-Project {
+		width: 200px;
+		height: 200px;
+		background-color: rgb(0, 165, 255);
+		position: relative;
+		top: -400px;
+		right: -512px;
+	}
+}
